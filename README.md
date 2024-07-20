@@ -17,3 +17,8 @@ Start the Bot: Type /start to begin interacting with WeatherBot. You'll receive 
 Help Command: If you're unsure about what commands are available, type /help to get a comprehensive list.
 Echo Command: Want WeatherBot to repeat something? Type /echo followed by your message.
 Check the Weather: To get the latest weather information for any city, simply type /weather followed by the city name. For example, /weather London.
+Technical Details:
+WeatherBot is built using Node.js and leverages the node-telegram-bot-api for Telegram integration and axios for fetching weather data from the OpenWeatherMap API.
+
+Get Started:
+To start using WeatherBot, simply add it to your Telegram contacts and send the /start command. Enjoy up-to-date weather information at your fingertips!
